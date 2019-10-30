@@ -1,5 +1,5 @@
 {
-    "name" : "apuc/bot",
+    "name" : "kavalar/bot",
     "description" : "PHP antispam library",
     "type": "library",
     "license" : "Apache-2.0",
