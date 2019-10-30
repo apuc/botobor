@@ -1,13 +1,13 @@
 {
-    "name" : "mekras/botobor",
+    "name" : "apuc/botobor",
     "description" : "PHP antispam library",
     "type": "library",
     "license" : "Apache-2.0",
     "keywords": ["antispam", "forms", "spam"],
     "authors": [
         {
-            "name": "Михаил Красильников",
-            "email": "m.krasilnikov@yandex.ru"
+            "name": "Кирилл Бойко",
+            "email": "apuc06@mail.ru"
         }
     ],
     "require": {
